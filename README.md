@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LezhinPTAD
+- 👋 Hi, I’m Chandra
 - 👀 I’m interested in ...
 - Python
 - JavaScript
@@ -8,15 +8,16 @@
 - 🌱 I’m currently learning ...
 - C++
 - JavaScript
+- Rust
 
 - 📫 How to reach me ...
-- https://t.me/lezhinc2,
+- https://t.me/wiselylez,
 
 - 💫 About Me ...
 - Im a ethical hacker and currently learning useful programming languages and frameworks for ethical hacking.
 - I made many tools. DoS Tools, OSINT Tools, Webscraping Tools (Its all for educational purposes only!)
-- Im 17 years old and im still at high school.
-- Im from indonesia, specifically tangerang.
+- Im 19 years old and im in university.
+- Im from indonesia.
 
 <!---
 LezhinPTAD/LezhinPTAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
